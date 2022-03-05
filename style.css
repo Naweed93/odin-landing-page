@@ -121,3 +121,31 @@ header {
     gap: 15px;
     padding: 0 135px;
 }
+.call-to-action{
+    padding: 100px;
+}
+.call-to-action .container{
+    background-color: #3882f6;
+    border-radius: 5%;
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+}
+.call-to-action h1{
+    font-size: 24px;
+    font-weight: 700;
+    color:#fff;
+}
+.call-to-action p{
+    color: #e5e7eb;
+    font-size: 18px;
+}
+.call-to-action button{
+    background-color: #3882f6;
+    border-radius: 10%;
+    color: #fff;
+    padding: 5px 30px;
+    border: solid;
+    border-color: #fff;
+    font-size: 18px;
+}
